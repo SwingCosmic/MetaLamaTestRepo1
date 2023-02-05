@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalamaTest1", "MetalamaTest1\MetalamaTest1.csproj", "{63B208CD-3CAA-41CF-9A67-1FC1E3C87FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{FA889740-5E0F-4C70-8992-D87EDBEE1C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B208CD-3CAA-41CF-9A67-1FC1E3C87FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B208CD-3CAA-41CF-9A67-1FC1E3C87FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B208CD-3CAA-41CF-9A67-1FC1E3C87FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B208CD-3CAA-41CF-9A67-1FC1E3C87FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA889740-5E0F-4C70-8992-D87EDBEE1C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA889740-5E0F-4C70-8992-D87EDBEE1C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA889740-5E0F-4C70-8992-D87EDBEE1C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA889740-5E0F-4C70-8992-D87EDBEE1C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD8BD50-CB66-4760-A6F0-0B4C62199706}
+	EndGlobalSection
+EndGlobal
